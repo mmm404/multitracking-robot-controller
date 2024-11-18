@@ -1,0 +1,5146 @@
+{
+  "uuid": "0c51a1ea2544a406344a68f0c23cc99e",
+  "path": "Offline/Project-12%2011",
+  "name": "Project-12 11",
+  "content": "This project is targeted to give understading of PCB design",
+  "created_at": "2024-11-12 16:43:35",
+  "updated_at": "2024-11-18 13:46:12",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e3efcb3e8a5e4860d2cb2562d874d05e",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "246c2702c77741ce85340741e2a4bb9b": 1,
+        "e426f79536c544aa952440f0dc4ed133": 1,
+        "fd26f012734f4d7696927c0324b2d791": 1,
+        "d19bcdb653c042168c2ca407cd1dcc26": 1,
+        "ef6cd77a3d1441bdb057c843d062ca33": 3,
+        "72e561b0c1e24f69bd5d1ad5961b51c2": 4,
+        "b67154ffa84d443cb7ddd48890c471af": 1,
+        "253ff9e37bbb4c3081915352d3b6344b": 8,
+        "9466da1f9725439dba4bf94ac502ae75": 2,
+        "4d30037e8c8645d2a8af276321224641": 2,
+        "8cb0931e7aee4571ab281a4f2e7b6e80": 1,
+        "a052559478a14ee2b9e3514bee4ff72d": 1,
+        "a4eacdcb63554cb08b3b56477817ab57": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 11,
+        "24eeb2ceca08480b92b847b6a310acda": 11
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          21,
+          "C0603",
+          "C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C20,C22,C30,C32,C33,C34,C39,C40,C55,C61",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "C0201",
+          "C19",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "220",
+          1,
+          "CASE-A_3216",
+          "C21",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.01u",
+          2,
+          "C0201",
+          "C23,C26",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "470u",
+          2,
+          "CASE-A_3216",
+          "C24,C27",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22u",
+          2,
+          "CASE-A_3216",
+          "C25,C28",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22p",
+          4,
+          "C0201",
+          "C29,C31,C48,C49",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1uF",
+          1,
+          "C0201",
+          "C41",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10nF",
+          1,
+          "C0201",
+          "C42",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100nF",
+          14,
+          "C0201",
+          "C44,C45,C46,C50,C51,C52,C54,C56,C57,C58,C60,C62,C63,C64",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1u",
+          16,
+          "C0201",
+          "C65,C68,C69,C70,C71,C72,C76,C77,C78,C79,C80,C81,C85,C86,C87,C88",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100n",
+          26,
+          "C0201",
+          "C,C12,C13,C14,C15,C16,C17,C18,C35,C36,C37,C38,C43,C47,C53,C59,C66,C67,C73,C74,C75,C82,C83,C84,C100,CAPT",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4148W",
+          6,
+          "SOD-123FL_L2.6-W1.6-LS3.4-RD",
+          "D1,D2,D16,D17,D18,D19",
+          {
+            "Manufacturer Part": "1N4148W",
+            "Manufacturer": "Tak Cheong",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129216"
+          }
+        ],
+        [
+          "DSCHOTTKY",
+          29,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D3,D4,D5,D7,D9,D10,D11,D12,D13,D14,D15,D23,D27,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51",
+          {
+            "Manufacturer Part": "DSchottky",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012836"
+          }
+        ],
+        [
+          "DIODE-ZENERPTH",
+          6,
+          "DIODE-ZENER",
+          "D6,D8,D21,D22,D25,D26",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4148",
+          4,
+          "DO-35_BD2.0-L4.2-P8.20-D0.5-RD",
+          "D20,D24,D32,D52",
+          {
+            "Manufacturer Part": "1N4148",
+            "Manufacturer": "STMicroelectronics",
+            "Supplier": "LCSC",
+            "Supplier Part": "C13769"
+          }
+        ],
+        [
+          "DIODEZENER",
+          1,
+          "SOD-523_L1.2-W0.8-LS1.6-RD",
+          "D28",
+          {
+            "Manufacturer Part": "DIODEZENER3.3V500MWSOD-523",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900023612"
+          }
+        ],
+        [
+          "1N4007",
+          6,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D29,D30,D31,D33,D34,D35",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C106903"
+          }
+        ],
+        [
+          "TSC+P2.5A250V",
+          1,
+          "FUSE-TH_BD5.6-L21.0-P25.00-D0.7",
+          "F1",
+          {
+            "Manufacturer Part": "TSC+PT2.5AH250V",
+            "Manufacturer": "WALTER(华德)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C354924"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x5",
+          1,
+          "HDR-M-2.54_1X5",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C358687"
+          }
+        ],
+        [
+          "SODIMM-200",
+          1,
+          "CONN-SMD_200P-P0.60_DDR2-SODIMM-200P",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "POWERJACK_2",
+          1,
+          "POWER_JACK_BO",
+          "J3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          7,
+          "HDR-M-2.54_1X2",
+          "J4,J6,J7,J12,J14,J15,J16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x2",
+          1,
+          "HDR-M-2.54_2X2",
+          "J5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C66690"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          2,
+          "HDR-M-2.54_1X4",
+          "J8,J10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x6",
+          1,
+          "HDR-M-2.54_1X6",
+          "J9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190819"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C180248"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x9",
+          1,
+          "HDR-M-2.54_1X9",
+          "J13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225484"
+          }
+        ],
+        [
+          "Switch 12*12*7",
+          1,
+          "KEY-TH_4P-L12.0-W12.0-P5.00-LS12.5",
+          "KEY1",
+          {
+            "Manufacturer Part": "Switch 12*12*7",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14248"
+          }
+        ],
+        [
+          "0.05DCR",
+          1,
+          "L0603",
+          "L1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "50m",
+          2,
+          "L0603",
+          "L2,L3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1m",
+          1,
+          "L0603",
+          "L4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BEAD FERRITE",
+          1,
+          "BEAD FERRITE",
+          "L5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "YXD-1204RGB-C",
+          1,
+          "LED-SMD_YXD-1204RGB-C",
+          "LED1",
+          {
+            "Manufacturer Part": "YXD-1204RGB-C",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001072"
+          }
+        ],
+        [
+          "LED-0603_R",
+          4,
+          "LED0603_RED",
+          "LED2,LED3,LED4,LED5",
+          {
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C72044"
+          }
+        ],
+        [
+          "CONN-TH_2P-P5.00",
+          1,
+          "CONN-TH_2P-P5.00",
+          "P1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-IDC-2.54-2X12P",
+          2,
+          "IDC-TH_24P-P2.54-V-R2-C12-S2.54",
+          "P2,P3",
+          {
+            "Manufacturer Part": "IDC Box 2X12 2.54MM",
+            "Manufacturer": "BOOMELE",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9137"
+          }
+        ],
+        [
+          "冲针公头(直插焊板)DP9P202M",
+          1,
+          "DB9-TH_DB9SS",
+          "P4",
+          {
+            "Manufacturer Part": "冲针公头(直插焊板)DP9P202M",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001561"
+          }
+        ],
+        [
+          "SMMBT3904WT1G",
+          4,
+          "SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR",
+          "Q1,Q2,Q3,Q4",
+          {
+            "Manufacturer Part": "SMMBT3904WT1G",
+            "Manufacturer": "onsemi(安森美)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C232649"
+          }
+        ],
+        [
+          "FQP30N06L",
+          1,
+          "TO-220AB-3_L10.3-W5.0-P2.54-L",
+          "Q5",
+          {
+            "Manufacturer Part": "FQP30N06L-VB",
+            "Manufacturer": "VBsemi(微碧半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C878826"
+          }
+        ],
+        [
+          "2N3904(SOT-23)",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR",
+          "Q6",
+          {
+            "Manufacturer Part": "2n3904S-RTK/PS",
+            "Manufacturer": "KEC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18536"
+          }
+        ],
+        [
+          "IRF5210",
+          1,
+          "TO-263-2_L10.0-W9.1-P5.08-LS15.2-BR",
+          "Q7",
+          {
+            "Manufacturer Part": "IRF5210STRLPBF",
+            "Manufacturer": "IR",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2622"
+          }
+        ],
+        [
+          "2N7002",
+          3,
+          "SOT-23_L2.9-W1.3-P0.95-LS2.4-BR",
+          "Q8,Q9,Q14",
+          {
+            "Manufacturer Part": "2N7002,215",
+            "Manufacturer": "Nexperia",
+            "Supplier": "LCSC",
+            "Supplier Part": "C65189"
+          }
+        ],
+        [
+          "NPN-SOT-23",
+          1,
+          "SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR",
+          "Q10",
+          {
+            "Manufacturer Part": "NPN-sot-23",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900005297"
+          }
+        ],
+        [
+          "MMBT3904",
+          2,
+          "SOT-23",
+          "Q11,Q12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MMBT3904_C916374",
+          2,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q13,Q15",
+          {
+            "Manufacturer Part": "MMBT3904",
+            "Manufacturer": "JSMSEMI(杰盛微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C916374"
+          }
+        ],
+        [
+          "1k",
+          97,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78,R79,R80,R81,R82,R83,R84,R85,R86,R87,R88,R89,R90,R91,R92,R93,R94,R95,R96,R97,R98,R99",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "200k",
+          2,
+          "R_AXIAL-0.4",
+          "R55,R66",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZZER-12MM-KIT",
+          "SP1",
+          {
+            "Manufacturer Part": "CEM-1203",
+            "Manufacturer": "CUI Inc.",
+            "Supplier": "Mouser",
+            "Supplier Part": "490-CEM-1203(42)"
+          }
+        ],
+        [
+          "TMP125AIDBVTG4",
+          3,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+          "U1,U2,U25",
+          {
+            "Manufacturer Part": "TMP125AIDBVTG4",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7362888"
+          }
+        ],
+        [
+          "USB20-ST-001B-01-H10D8",
+          2,
+          "USB-B-TH_USB-B10-BRW",
+          "U3,U4",
+          {
+            "Manufacturer Part": "USB20-ST-001B-01-H10D8",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900013838"
+          }
+        ],
+        [
+          "M7 1N4007",
+          4,
+          "SMA_L4.4-W2.8-LS5.4-RD",
+          "U5,U6,U8,U45",
+          {
+            "Manufacturer Part": "M7 1N4007",
+            "Manufacturer": "JUXING(钜兴)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5337558"
+          }
+        ],
+        [
+          "RJ45-001-012-11 COPY",
+          1,
+          "RJ45-TH_RJ45-001-012-11",
+          "U7",
+          {
+            "Manufacturer Part": "RJ45-001-012-11",
+            "Manufacturer": "XUNPU(讯普)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7421392"
+          }
+        ],
+        [
+          "LM317_C84288",
+          1,
+          "TO-263-2_L10.1-W9.1-P5.08-LS15.2-TL",
+          "U9",
+          {
+            "Manufacturer Part": "LM317",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84288"
+          }
+        ],
+        [
+          "MAX787",
+          2,
+          "MAX787-SOT",
+          "U10,U11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "16 MHz Oscillator-Multicom Pro",
+          1,
+          "MCSJK-3N-12.00-3.3-25-C",
+          "U12",
+          {
+            "Manufacturer Part": "MCSJK-3N-12.00-3.3-25-C",
+            "Manufacturer": "MULTICOMP PRO",
+            "Supplier": "Element14",
+            "Supplier Part": "2854271"
+          }
+        ],
+        [
+          "ATMEGA328P-P",
+          1,
+          "ATMEGA328P-PU",
+          "U13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LTC3822EMSE#PBF",
+          1,
+          "MSOP-10_L3.0-W3.0-P0.50-LS4.9-BL-EP",
+          "U14",
+          {
+            "Manufacturer Part": "LTC3822EMSE#PBF",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C686168"
+          }
+        ],
+        [
+          "MX25L51245GZ2I-10G TR",
+          8,
+          "WSON-8_L8.0-W6.0-P1.27-TL-EP",
+          "U15,U17,U18,U21,U22,U23,U26,U28",
+          {
+            "Manufacturer Part": "MX25L51245GZ2I-10G TR",
+            "Manufacturer": "MXIC(旺宏电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2834727"
+          }
+        ],
+        [
+          "STM32L4A6ZGT6",
+          1,
+          "LQFP-144_L20.0-W20.0-P0.50-LS22.0-BL",
+          "U16",
+          {
+            "Manufacturer Part": "STM32L4A6ZGT6",
+            "Manufacturer": "ST(意法半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1337520"
+          }
+        ],
+        [
+          "DS3231M+",
+          1,
+          "SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL",
+          "U19",
+          {
+            "Manufacturer Part": "DS3231M+",
+            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1520508"
+          }
+        ],
+        [
+          "AT24C32",
+          1,
+          "SO-8_L4.9-W3.9-P1.27-LS6.0-TL",
+          "U20",
+          {
+            "Manufacturer Part": "AT24C32",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900010642"
+          }
+        ],
+        [
+          "BAT1-3V",
+          1,
+          "BAT-SMD_BAT1-3V",
+          "U24",
+          {
+            "Manufacturer Part": "BAT1-3V",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900005490"
+          }
+        ],
+        [
+          "8 MHz Oscillator-Multicom Pro",
+          1,
+          "MCSJK-3N-12.00-3.3-25-C",
+          "U27",
+          {
+            "Manufacturer Part": "MCSJK-3N-12.00-3.3-25-C",
+            "Manufacturer": "MULTICOMP PRO",
+            "Supplier": "Element14",
+            "Supplier Part": "2854271"
+          }
+        ],
+        [
+          "CONVERTER-DAC7311",
+          8,
+          "SC-70-6",
+          "U29,U30,U34,U35,U37,U40,U41,U43",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LM386N",
+          8,
+          "DIP-8_L9.7-W6.4-P2.54-LS7.6-BL",
+          "U31,U32,U33,U36,U38,U39,U42,U44",
+          {
+            "Manufacturer Part": "LM386N",
+            "Manufacturer": "HTC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C510561"
+          }
+        ],
+        [
+          "32Kz",
+          1,
+          "XTAL_US",
+          "Y1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1731736454,
+      "createTime": 1731419017,
+      "histories": [],
+      "created_at": "2024-11-12 16:43:37",
+      "updated_at": "2024-11-16 08:54:14"
+    },
+    {
+      "uuid": "b6f33caed00f460f82ca636a11ac7d2c",
+      "title": "Sheet_2",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0f968ec31f5240609921c0bfb15a7796": 1,
+        "d87168a1f7644769b5417024f38a658f": 1,
+        "731e46b9ff3e4031a8f401267887fd3e": 1,
+        "3398ba973e884e058569040caec61957": 13,
+        "cf995a23536b75077bbf5c1f15aabe8f": 1,
+        "a9aa2b14f188405792fa87ac344499a4": 3,
+        "f5b1d9403e49471cab43bc5a1bec336f": 1,
+        "0d0a13f4d5e4481aa82dc0293d1aa27e": 1,
+        "84c02b64880046f7bce113abf961bf4d": 1,
+        "253ff9e37bbb4c3081915352d3b6344b": 12,
+        "6490357cda8c4ed8b17f44abbdce5391": 6,
+        "5cbe824183374fac8e4c1ae848199ce3": 4,
+        "a7a0e276dadd4f8097422d2afc2e1b9c": 6,
+        "4e5e5775fd634dd48141eafc77c26e7a": 1,
+        "944ca2f18b8f43e6aa642583d275ffbc": 6,
+        "0c33b4cb20b6470fa5657b054ce476d4": 1,
+        "3ce75d1610944003ad44ca74c5fa002c": 1,
+        "93b44d62463c4c9c82dd7108c8ee7d73": 1,
+        "9da428d24b624bb5b3de5998abc73a50": 1,
+        "206a97e45997417daa0c91c49b670931": 2,
+        "a4eacdcb63554cb08b3b56477817ab57": 3,
+        "62a5d91115c34b5b8d27e6b924c6c14e": 2,
+        "1d0f124cb9754728865afd443760d507": 1,
+        "978dd86cb8f545279789152357b8a3b4": 2,
+        "b0248eb51e084227889f2cb84eab79c4": 26
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          21,
+          "C0603",
+          "C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C20,C22,C30,C32,C33,C34,C39,C40,C55,C61",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "C0201",
+          "C19",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "220",
+          1,
+          "CASE-A_3216",
+          "C21",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.01u",
+          2,
+          "C0201",
+          "C23,C26",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "470u",
+          2,
+          "CASE-A_3216",
+          "C24,C27",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22u",
+          2,
+          "CASE-A_3216",
+          "C25,C28",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22p",
+          4,
+          "C0201",
+          "C29,C31,C48,C49",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1uF",
+          1,
+          "C0201",
+          "C41",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10nF",
+          1,
+          "C0201",
+          "C42",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100nF",
+          14,
+          "C0201",
+          "C44,C45,C46,C50,C51,C52,C54,C56,C57,C58,C60,C62,C63,C64",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1u",
+          16,
+          "C0201",
+          "C65,C68,C69,C70,C71,C72,C76,C77,C78,C79,C80,C81,C85,C86,C87,C88",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100n",
+          26,
+          "C0201",
+          "C,C12,C13,C14,C15,C16,C17,C18,C35,C36,C37,C38,C43,C47,C53,C59,C66,C67,C73,C74,C75,C82,C83,C84,C100,CAPT",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4148W",
+          6,
+          "SOD-123FL_L2.6-W1.6-LS3.4-RD",
+          "D1,D2,D16,D17,D18,D19",
+          {
+            "Manufacturer Part": "1N4148W",
+            "Manufacturer": "Tak Cheong",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129216"
+          }
+        ],
+        [
+          "DSCHOTTKY",
+          29,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D3,D4,D5,D7,D9,D10,D11,D12,D13,D14,D15,D23,D27,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51",
+          {
+            "Manufacturer Part": "DSchottky",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012836"
+          }
+        ],
+        [
+          "DIODE-ZENERPTH",
+          6,
+          "DIODE-ZENER",
+          "D6,D8,D21,D22,D25,D26",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4148",
+          4,
+          "DO-35_BD2.0-L4.2-P8.20-D0.5-RD",
+          "D20,D24,D32,D52",
+          {
+            "Manufacturer Part": "1N4148",
+            "Manufacturer": "STMicroelectronics",
+            "Supplier": "LCSC",
+            "Supplier Part": "C13769"
+          }
+        ],
+        [
+          "DIODEZENER",
+          1,
+          "SOD-523_L1.2-W0.8-LS1.6-RD",
+          "D28",
+          {
+            "Manufacturer Part": "DIODEZENER3.3V500MWSOD-523",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900023612"
+          }
+        ],
+        [
+          "1N4007",
+          6,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D29,D30,D31,D33,D34,D35",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C106903"
+          }
+        ],
+        [
+          "TSC+P2.5A250V",
+          1,
+          "FUSE-TH_BD5.6-L21.0-P25.00-D0.7",
+          "F1",
+          {
+            "Manufacturer Part": "TSC+PT2.5AH250V",
+            "Manufacturer": "WALTER(华德)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C354924"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x5",
+          1,
+          "HDR-M-2.54_1X5",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C358687"
+          }
+        ],
+        [
+          "SODIMM-200",
+          1,
+          "CONN-SMD_200P-P0.60_DDR2-SODIMM-200P",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "POWERJACK_2",
+          1,
+          "POWER_JACK_BO",
+          "J3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          7,
+          "HDR-M-2.54_1X2",
+          "J4,J6,J7,J12,J14,J15,J16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x2",
+          1,
+          "HDR-M-2.54_2X2",
+          "J5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C66690"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          2,
+          "HDR-M-2.54_1X4",
+          "J8,J10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x6",
+          1,
+          "HDR-M-2.54_1X6",
+          "J9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190819"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C180248"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x9",
+          1,
+          "HDR-M-2.54_1X9",
+          "J13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225484"
+          }
+        ],
+        [
+          "Switch 12*12*7",
+          1,
+          "KEY-TH_4P-L12.0-W12.0-P5.00-LS12.5",
+          "KEY1",
+          {
+            "Manufacturer Part": "Switch 12*12*7",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14248"
+          }
+        ],
+        [
+          "0.05DCR",
+          1,
+          "L0603",
+          "L1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "50m",
+          2,
+          "L0603",
+          "L2,L3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1m",
+          1,
+          "L0603",
+          "L4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BEAD FERRITE",
+          1,
+          "BEAD FERRITE",
+          "L5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "YXD-1204RGB-C",
+          1,
+          "LED-SMD_YXD-1204RGB-C",
+          "LED1",
+          {
+            "Manufacturer Part": "YXD-1204RGB-C",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001072"
+          }
+        ],
+        [
+          "LED-0603_R",
+          4,
+          "LED0603_RED",
+          "LED2,LED3,LED4,LED5",
+          {
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C72044"
+          }
+        ],
+        [
+          "CONN-TH_2P-P5.00",
+          1,
+          "CONN-TH_2P-P5.00",
+          "P1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-IDC-2.54-2X12P",
+          2,
+          "IDC-TH_24P-P2.54-V-R2-C12-S2.54",
+          "P2,P3",
+          {
+            "Manufacturer Part": "IDC Box 2X12 2.54MM",
+            "Manufacturer": "BOOMELE",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9137"
+          }
+        ],
+        [
+          "冲针公头(直插焊板)DP9P202M",
+          1,
+          "DB9-TH_DB9SS",
+          "P4",
+          {
+            "Manufacturer Part": "冲针公头(直插焊板)DP9P202M",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001561"
+          }
+        ],
+        [
+          "SMMBT3904WT1G",
+          4,
+          "SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR",
+          "Q1,Q2,Q3,Q4",
+          {
+            "Manufacturer Part": "SMMBT3904WT1G",
+            "Manufacturer": "onsemi(安森美)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C232649"
+          }
+        ],
+        [
+          "FQP30N06L",
+          1,
+          "TO-220AB-3_L10.3-W5.0-P2.54-L",
+          "Q5",
+          {
+            "Manufacturer Part": "FQP30N06L-VB",
+            "Manufacturer": "VBsemi(微碧半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C878826"
+          }
+        ],
+        [
+          "2N3904(SOT-23)",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR",
+          "Q6",
+          {
+            "Manufacturer Part": "2n3904S-RTK/PS",
+            "Manufacturer": "KEC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18536"
+          }
+        ],
+        [
+          "IRF5210",
+          1,
+          "TO-263-2_L10.0-W9.1-P5.08-LS15.2-BR",
+          "Q7",
+          {
+            "Manufacturer Part": "IRF5210STRLPBF",
+            "Manufacturer": "IR",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2622"
+          }
+        ],
+        [
+          "2N7002",
+          3,
+          "SOT-23_L2.9-W1.3-P0.95-LS2.4-BR",
+          "Q8,Q9,Q14",
+          {
+            "Manufacturer Part": "2N7002,215",
+            "Manufacturer": "Nexperia",
+            "Supplier": "LCSC",
+            "Supplier Part": "C65189"
+          }
+        ],
+        [
+          "NPN-SOT-23",
+          1,
+          "SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR",
+          "Q10",
+          {
+            "Manufacturer Part": "NPN-sot-23",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900005297"
+          }
+        ],
+        [
+          "MMBT3904",
+          2,
+          "SOT-23",
+          "Q11,Q12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MMBT3904_C916374",
+          2,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q13,Q15",
+          {
+            "Manufacturer Part": "MMBT3904",
+            "Manufacturer": "JSMSEMI(杰盛微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C916374"
+          }
+        ],
+        [
+          "1k",
+          97,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78,R79,R80,R81,R82,R83,R84,R85,R86,R87,R88,R89,R90,R91,R92,R93,R94,R95,R96,R97,R98,R99",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "200k",
+          2,
+          "R_AXIAL-0.4",
+          "R55,R66",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZZER-12MM-KIT",
+          "SP1",
+          {
+            "Manufacturer Part": "CEM-1203",
+            "Manufacturer": "CUI Inc.",
+            "Supplier": "Mouser",
+            "Supplier Part": "490-CEM-1203(42)"
+          }
+        ],
+        [
+          "TMP125AIDBVTG4",
+          3,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+          "U1,U2,U25",
+          {
+            "Manufacturer Part": "TMP125AIDBVTG4",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7362888"
+          }
+        ],
+        [
+          "USB20-ST-001B-01-H10D8",
+          2,
+          "USB-B-TH_USB-B10-BRW",
+          "U3,U4",
+          {
+            "Manufacturer Part": "USB20-ST-001B-01-H10D8",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900013838"
+          }
+        ],
+        [
+          "M7 1N4007",
+          4,
+          "SMA_L4.4-W2.8-LS5.4-RD",
+          "U5,U6,U8,U45",
+          {
+            "Manufacturer Part": "M7 1N4007",
+            "Manufacturer": "JUXING(钜兴)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5337558"
+          }
+        ],
+        [
+          "RJ45-001-012-11 COPY",
+          1,
+          "RJ45-TH_RJ45-001-012-11",
+          "U7",
+          {
+            "Manufacturer Part": "RJ45-001-012-11",
+            "Manufacturer": "XUNPU(讯普)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7421392"
+          }
+        ],
+        [
+          "LM317_C84288",
+          1,
+          "TO-263-2_L10.1-W9.1-P5.08-LS15.2-TL",
+          "U9",
+          {
+            "Manufacturer Part": "LM317",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84288"
+          }
+        ],
+        [
+          "MAX787",
+          2,
+          "MAX787-SOT",
+          "U10,U11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "16 MHz Oscillator-Multicom Pro",
+          1,
+          "MCSJK-3N-12.00-3.3-25-C",
+          "U12",
+          {
+            "Manufacturer Part": "MCSJK-3N-12.00-3.3-25-C",
+            "Manufacturer": "MULTICOMP PRO",
+            "Supplier": "Element14",
+            "Supplier Part": "2854271"
+          }
+        ],
+        [
+          "ATMEGA328P-P",
+          1,
+          "ATMEGA328P-PU",
+          "U13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LTC3822EMSE#PBF",
+          1,
+          "MSOP-10_L3.0-W3.0-P0.50-LS4.9-BL-EP",
+          "U14",
+          {
+            "Manufacturer Part": "LTC3822EMSE#PBF",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C686168"
+          }
+        ],
+        [
+          "MX25L51245GZ2I-10G TR",
+          8,
+          "WSON-8_L8.0-W6.0-P1.27-TL-EP",
+          "U15,U17,U18,U21,U22,U23,U26,U28",
+          {
+            "Manufacturer Part": "MX25L51245GZ2I-10G TR",
+            "Manufacturer": "MXIC(旺宏电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2834727"
+          }
+        ],
+        [
+          "STM32L4A6ZGT6",
+          1,
+          "LQFP-144_L20.0-W20.0-P0.50-LS22.0-BL",
+          "U16",
+          {
+            "Manufacturer Part": "STM32L4A6ZGT6",
+            "Manufacturer": "ST(意法半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1337520"
+          }
+        ],
+        [
+          "DS3231M+",
+          1,
+          "SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL",
+          "U19",
+          {
+            "Manufacturer Part": "DS3231M+",
+            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1520508"
+          }
+        ],
+        [
+          "AT24C32",
+          1,
+          "SO-8_L4.9-W3.9-P1.27-LS6.0-TL",
+          "U20",
+          {
+            "Manufacturer Part": "AT24C32",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900010642"
+          }
+        ],
+        [
+          "BAT1-3V",
+          1,
+          "BAT-SMD_BAT1-3V",
+          "U24",
+          {
+            "Manufacturer Part": "BAT1-3V",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900005490"
+          }
+        ],
+        [
+          "8 MHz Oscillator-Multicom Pro",
+          1,
+          "MCSJK-3N-12.00-3.3-25-C",
+          "U27",
+          {
+            "Manufacturer Part": "MCSJK-3N-12.00-3.3-25-C",
+            "Manufacturer": "MULTICOMP PRO",
+            "Supplier": "Element14",
+            "Supplier Part": "2854271"
+          }
+        ],
+        [
+          "CONVERTER-DAC7311",
+          8,
+          "SC-70-6",
+          "U29,U30,U34,U35,U37,U40,U41,U43",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LM386N",
+          8,
+          "DIP-8_L9.7-W6.4-P2.54-LS7.6-BL",
+          "U31,U32,U33,U36,U38,U39,U42,U44",
+          {
+            "Manufacturer Part": "LM386N",
+            "Manufacturer": "HTC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C510561"
+          }
+        ],
+        [
+          "32Kz",
+          1,
+          "XTAL_US",
+          "Y1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1731736453,
+      "createTime": 1731423663,
+      "histories": [],
+      "created_at": "2024-11-12 18:01:03",
+      "updated_at": "2024-11-16 08:54:13"
+    },
+    {
+      "uuid": "a10292e12b97e20fbf3da7715b323d6d",
+      "title": "Sheet_3",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0166c18f1d8b4026a350f49103ba86f4": 2,
+        "3a431b1a57b7448ca8794c840423952e": 1,
+        "0f158f51a9734da891b06f6e0536a858": 1,
+        "e87ecfda8ca247acbfe5131011be415b": 1,
+        "0a3de51c27104a39b89e232f79f4323c": 8,
+        "253ff9e37bbb4c3081915352d3b6344b": 30,
+        "9da428d24b624bb5b3de5998abc73a50": 1,
+        "a68dc5e6a9944c46b7604648a43dcd65": 1,
+        "f5b1d9403e49471cab43bc5a1bec336f": 1,
+        "281d9155ba7d5d10a91df45458c4f813": 1,
+        "9466da1f9725439dba4bf94ac502ae75": 1,
+        "da85efb77378462aaaa3d5ff7db1c1dd": 6,
+        "a9aa2b14f188405792fa87ac344499a4": 1,
+        "94944532e610477e8ee92f661ac4666c": 1,
+        "fc222fc9d76d4f51b68a566022d28a39": 1,
+        "cc0139f202524f5a9d606cdade7f13e2": 1,
+        "62a5d91115c34b5b8d27e6b924c6c14e": 1,
+        "f38dfb7c160b4c22881045ef7c300a02": 1,
+        "d66547835ca24308a5f60569ae1ec235": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 8
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          21,
+          "C0603",
+          "C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C20,C22,C30,C32,C33,C34,C39,C40,C55,C61",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "C0201",
+          "C19",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "220",
+          1,
+          "CASE-A_3216",
+          "C21",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.01u",
+          2,
+          "C0201",
+          "C23,C26",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "470u",
+          2,
+          "CASE-A_3216",
+          "C24,C27",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22u",
+          2,
+          "CASE-A_3216",
+          "C25,C28",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22p",
+          4,
+          "C0201",
+          "C29,C31,C48,C49",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1uF",
+          1,
+          "C0201",
+          "C41",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10nF",
+          1,
+          "C0201",
+          "C42",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100nF",
+          14,
+          "C0201",
+          "C44,C45,C46,C50,C51,C52,C54,C56,C57,C58,C60,C62,C63,C64",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1u",
+          16,
+          "C0201",
+          "C65,C68,C69,C70,C71,C72,C76,C77,C78,C79,C80,C81,C85,C86,C87,C88",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100n",
+          26,
+          "C0201",
+          "C,C,C12,C13,C14,C15,C16,C17,C18,C35,C36,C37,C38,C43,C47,C53,C59,C66,C67,C73,C74,C75,C82,C83,C84,CAPT",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4148W",
+          6,
+          "SOD-123FL_L2.6-W1.6-LS3.4-RD",
+          "D1,D2,D16,D17,D18,D19",
+          {
+            "Manufacturer Part": "1N4148W",
+            "Manufacturer": "Tak Cheong",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129216"
+          }
+        ],
+        [
+          "DSCHOTTKY",
+          29,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D3,D4,D5,D7,D9,D10,D11,D12,D13,D14,D15,D23,D27,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51",
+          {
+            "Manufacturer Part": "DSchottky",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012836"
+          }
+        ],
+        [
+          "DIODE-ZENERPTH",
+          6,
+          "DIODE-ZENER",
+          "D6,D8,D21,D22,D25,D26",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4148",
+          4,
+          "DO-35_BD2.0-L4.2-P8.20-D0.5-RD",
+          "D20,D24,D32,D52",
+          {
+            "Manufacturer Part": "1N4148",
+            "Manufacturer": "STMicroelectronics",
+            "Supplier": "LCSC",
+            "Supplier Part": "C13769"
+          }
+        ],
+        [
+          "DIODEZENER",
+          1,
+          "SOD-523_L1.2-W0.8-LS1.6-RD",
+          "D28",
+          {
+            "Manufacturer Part": "DIODEZENER3.3V500MWSOD-523",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900023612"
+          }
+        ],
+        [
+          "1N4007",
+          6,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D29,D30,D31,D33,D34,D35",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C106903"
+          }
+        ],
+        [
+          "TSC+P2.5A250V",
+          1,
+          "FUSE-TH_BD5.6-L21.0-P25.00-D0.7",
+          "F1",
+          {
+            "Manufacturer Part": "TSC+PT2.5AH250V",
+            "Manufacturer": "WALTER(华德)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C354924"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x5",
+          1,
+          "HDR-M-2.54_1X5",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C358687"
+          }
+        ],
+        [
+          "SODIMM-200",
+          1,
+          "",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "POWERJACK_2",
+          1,
+          "POWER_JACK_BO",
+          "J3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          7,
+          "HDR-M-2.54_1X2",
+          "J4,J6,J7,J12,J14,J15,J16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x2",
+          1,
+          "HDR-M-2.54_2X2",
+          "J5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C66690"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          2,
+          "HDR-M-2.54_1X4",
+          "J8,J10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x6",
+          1,
+          "HDR-M-2.54_1X6",
+          "J9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190819"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C180248"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x9",
+          1,
+          "HDR-M-2.54_1X9",
+          "J13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225484"
+          }
+        ],
+        [
+          "Switch 12*12*7",
+          1,
+          "KEY-TH_4P-L12.0-W12.0-P5.00-LS12.5",
+          "KEY1",
+          {
+            "Manufacturer Part": "Switch 12*12*7",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14248"
+          }
+        ],
+        [
+          "0.05DCR",
+          1,
+          "L0603",
+          "L1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "50m",
+          2,
+          "L0603",
+          "L2,L3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1m",
+          1,
+          "L0603",
+          "L4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BEAD FERRITE",
+          1,
+          "BEAD FERRITE",
+          "L5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "YXD-1204RGB-C",
+          1,
+          "LED-SMD_YXD-1204RGB-C",
+          "LED1",
+          {
+            "Manufacturer Part": "YXD-1204RGB-C",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001072"
+          }
+        ],
+        [
+          "LED-0603_R",
+          4,
+          "LED0603_RED",
+          "LED2,LED3,LED4,LED5",
+          {
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C72044"
+          }
+        ],
+        [
+          "CONN-TH_2P-P5.00",
+          1,
+          "CONN-TH_2P-P5.00",
+          "P1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-IDC-2.54-2X12P",
+          2,
+          "IDC-TH_24P-P2.54-V-R2-C12-S2.54",
+          "P2,P3",
+          {
+            "Manufacturer Part": "IDC Box 2X12 2.54MM",
+            "Manufacturer": "BOOMELE",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9137"
+          }
+        ],
+        [
+          "冲针公头(直插焊板)DP9P202M",
+          1,
+          "DB9-TH_DB9SS",
+          "P4",
+          {
+            "Manufacturer Part": "冲针公头(直插焊板)DP9P202M",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001561"
+          }
+        ],
+        [
+          "SMMBT3904WT1G",
+          4,
+          "SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR",
+          "Q1,Q2,Q3,Q4",
+          {
+            "Manufacturer Part": "SMMBT3904WT1G",
+            "Manufacturer": "onsemi(安森美)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C232649"
+          }
+        ],
+        [
+          "FQP30N06L",
+          1,
+          "TO-220AB-3_L10.3-W5.0-P2.54-L",
+          "Q5",
+          {
+            "Manufacturer Part": "FQP30N06L-VB",
+            "Manufacturer": "VBsemi(微碧半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C878826"
+          }
+        ],
+        [
+          "2N3904(SOT-23)",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR",
+          "Q6",
+          {
+            "Manufacturer Part": "2n3904S-RTK/PS",
+            "Manufacturer": "KEC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18536"
+          }
+        ],
+        [
+          "IRF5210",
+          1,
+          "TO-263-2_L10.0-W9.1-P5.08-LS15.2-BR",
+          "Q7",
+          {
+            "Manufacturer Part": "IRF5210STRLPBF",
+            "Manufacturer": "IR",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2622"
+          }
+        ],
+        [
+          "2N7002",
+          3,
+          "SOT-23_L2.9-W1.3-P0.95-LS2.4-BR",
+          "Q8,Q9,Q14",
+          {
+            "Manufacturer Part": "2N7002,215",
+            "Manufacturer": "Nexperia",
+            "Supplier": "LCSC",
+            "Supplier Part": "C65189"
+          }
+        ],
+        [
+          "NPN-SOT-23",
+          1,
+          "SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR",
+          "Q10",
+          {
+            "Manufacturer Part": "NPN-sot-23",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900005297"
+          }
+        ],
+        [
+          "MMBT3904",
+          2,
+          "SOT-23",
+          "Q11,Q12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MMBT3904_C916374",
+          2,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q13,Q15",
+          {
+            "Manufacturer Part": "MMBT3904",
+            "Manufacturer": "JSMSEMI(杰盛微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C916374"
+          }
+        ],
+        [
+          "1k",
+          97,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78,R79,R80,R81,R82,R83,R84,R85,R86,R87,R88,R89,R90,R91,R92,R93,R94,R95,R96,R97,R98,R99",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "200k",
+          2,
+          "R_AXIAL-0.4",
+          "R55,R66",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZZER-12MM-KIT",
+          "SP1",
+          {
+            "Manufacturer Part": "CEM-1203",
+            "Manufacturer": "CUI Inc.",
+            "Supplier": "Mouser",
+            "Supplier Part": "490-CEM-1203(42)"
+          }
+        ],
+        [
+          "TMP125AIDBVTG4",
+          3,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+          "U1,U2,U25",
+          {
+            "Manufacturer Part": "TMP125AIDBVTG4",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7362888"
+          }
+        ],
+        [
+          "USB20-ST-001B-01-H10D8",
+          2,
+          "USB-B-TH_USB-B10-BRW",
+          "U3,U4",
+          {
+            "Manufacturer Part": "USB20-ST-001B-01-H10D8",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900013838"
+          }
+        ],
+        [
+          "M7 1N4007",
+          4,
+          "SMA_L4.4-W2.8-LS5.4-RD",
+          "U5,U6,U8,U45",
+          {
+            "Manufacturer Part": "M7 1N4007",
+            "Manufacturer": "JUXING(钜兴)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5337558"
+          }
+        ],
+        [
+          "RJ45-001-012-11 COPY",
+          1,
+          "RJ45-TH_RJ45-001-012-11",
+          "U7",
+          {
+            "Manufacturer Part": "RJ45-001-012-11",
+            "Manufacturer": "XUNPU(讯普)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7421392"
+          }
+        ],
+        [
+          "LM317_C84288",
+          1,
+          "TO-263-2_L10.1-W9.1-P5.08-LS15.2-TL",
+          "U9",
+          {
+            "Manufacturer Part": "LM317",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84288"
+          }
+        ],
+        [
+          "MAX787",
+          2,
+          "MAX787-SOT",
+          "U10,U11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "16 MHz Oscillator-Multicom Pro",
+          1,
+          "MCSJK-3N-12.00-3.3-25-C",
+          "U12",
+          {
+            "Manufacturer Part": "MCSJK-3N-12.00-3.3-25-C",
+            "Manufacturer": "MULTICOMP PRO",
+            "Supplier": "Element14",
+            "Supplier Part": "2854271"
+          }
+        ],
+        [
+          "ATMEGA328P-P",
+          1,
+          "ATMEGA328P-P",
+          "U13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LTC3822EMSE#PBF",
+          1,
+          "MSOP-10_L3.0-W3.0-P0.50-LS4.9-BL-EP",
+          "U14",
+          {
+            "Manufacturer Part": "LTC3822EMSE#PBF",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C686168"
+          }
+        ],
+        [
+          "MX25L51245GZ2I-10G TR",
+          8,
+          "WSON-8_L8.0-W6.0-P1.27-TL-EP",
+          "U15,U17,U18,U21,U22,U23,U26,U28",
+          {
+            "Manufacturer Part": "MX25L51245GZ2I-10G TR",
+            "Manufacturer": "MXIC(旺宏电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2834727"
+          }
+        ],
+        [
+          "STM32L4A6ZGT6",
+          1,
+          "LQFP-144_L20.0-W20.0-P0.50-LS22.0-BL",
+          "U16",
+          {
+            "Manufacturer Part": "STM32L4A6ZGT6",
+            "Manufacturer": "ST(意法半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1337520"
+          }
+        ],
+        [
+          "DS3231M+",
+          1,
+          "SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL",
+          "U19",
+          {
+            "Manufacturer Part": "DS3231M+",
+            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1520508"
+          }
+        ],
+        [
+          "AT24C32",
+          1,
+          "SO-8_L4.9-W3.9-P1.27-LS6.0-TL",
+          "U20",
+          {
+            "Manufacturer Part": "AT24C32",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900010642"
+          }
+        ],
+        [
+          "BAT1-3V",
+          1,
+          "BAT-SMD_BAT1-3V",
+          "U24",
+          {
+            "Manufacturer Part": "BAT1-3V",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900005490"
+          }
+        ],
+        [
+          "8 MHz Oscillator-Multicom Pro",
+          1,
+          "MCSJK-3N-12.00-3.3-25-C",
+          "U27",
+          {
+            "Manufacturer Part": "MCSJK-3N-12.00-3.3-25-C",
+            "Manufacturer": "MULTICOMP PRO",
+            "Supplier": "Element14",
+            "Supplier Part": "2854271"
+          }
+        ],
+        [
+          "CONVERTER-DAC7311",
+          8,
+          "SC-70-6",
+          "U29,U30,U34,U35,U37,U40,U41,U43",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LM386N",
+          8,
+          "DIP-8_L9.7-W6.4-P2.54-LS7.6-BL",
+          "U31,U32,U33,U36,U38,U39,U42,U44",
+          {
+            "Manufacturer Part": "LM386N",
+            "Manufacturer": "HTC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C510561"
+          }
+        ],
+        [
+          "32Kz",
+          1,
+          "XTAL_US",
+          "Y1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1731734748,
+      "createTime": 1731426418,
+      "histories": [],
+      "created_at": "2024-11-12 18:46:58",
+      "updated_at": "2024-11-16 08:25:48"
+    },
+    {
+      "uuid": "992625ba8e4de574986a582a7a8ef60e",
+      "title": "Sheet_4",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "3398ba973e884e058569040caec61957": 16,
+        "f0bc163659d742bc8f021d00cdeb85b2": 2,
+        "0b3f6b9fb24d4ba0a316d020bea7c381": 8,
+        "e1ef11c47a8441688221ef3961fe580f": 8,
+        "253ff9e37bbb4c3081915352d3b6344b": 24,
+        "24e45360a75d4413b40d4dad1a13508a": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 28
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          21,
+          "C0603",
+          "C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C20,C22,C30,C32,C33,C34,C39,C40,C55,C61",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "C0201",
+          "C19",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "220",
+          1,
+          "CASE-A_3216",
+          "C21",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.01u",
+          2,
+          "C0201",
+          "C23,C26",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "470u",
+          2,
+          "CASE-A_3216",
+          "C24,C27",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22u",
+          2,
+          "CASE-A_3216",
+          "C25,C28",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22p",
+          4,
+          "C0201",
+          "C29,C31,C48,C49",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1uF",
+          1,
+          "C0201",
+          "C41",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10nF",
+          1,
+          "C0201",
+          "C42",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100nF",
+          14,
+          "C0201",
+          "C44,C45,C46,C50,C51,C52,C54,C56,C57,C58,C60,C62,C63,C64",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1u",
+          16,
+          "C0201",
+          "C65,C68,C69,C70,C71,C72,C76,C77,C78,C79,C80,C81,C85,C86,C87,C88",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100n",
+          26,
+          "C0201",
+          "C,C,C12,C13,C14,C15,C16,C17,C18,C35,C36,C37,C38,C43,C47,C53,C59,C66,C67,C73,C74,C75,C82,C83,C84,CAPT",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4148W",
+          6,
+          "SOD-123FL_L2.6-W1.6-LS3.4-RD",
+          "D1,D2,D16,D17,D18,D19",
+          {
+            "Manufacturer Part": "1N4148W",
+            "Manufacturer": "Tak Cheong",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129216"
+          }
+        ],
+        [
+          "DSCHOTTKY",
+          29,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D3,D4,D5,D7,D9,D10,D11,D12,D13,D14,D15,D23,D27,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51",
+          {
+            "Manufacturer Part": "DSchottky",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012836"
+          }
+        ],
+        [
+          "DIODE-ZENERPTH",
+          6,
+          "DIODE-ZENER",
+          "D6,D8,D21,D22,D25,D26",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4148",
+          4,
+          "DO-35_BD2.0-L4.2-P8.20-D0.5-RD",
+          "D20,D24,D32,D52",
+          {
+            "Manufacturer Part": "1N4148",
+            "Manufacturer": "STMicroelectronics",
+            "Supplier": "LCSC",
+            "Supplier Part": "C13769"
+          }
+        ],
+        [
+          "DIODEZENER",
+          1,
+          "SOD-523_L1.2-W0.8-LS1.6-RD",
+          "D28",
+          {
+            "Manufacturer Part": "DIODEZENER3.3V500MWSOD-523",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900023612"
+          }
+        ],
+        [
+          "1N4007",
+          6,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D29,D30,D31,D33,D34,D35",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C106903"
+          }
+        ],
+        [
+          "TSC+P2.5A250V",
+          1,
+          "FUSE-TH_BD5.6-L21.0-P25.00-D0.7",
+          "F1",
+          {
+            "Manufacturer Part": "TSC+PT2.5AH250V",
+            "Manufacturer": "WALTER(华德)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C354924"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x5",
+          1,
+          "HDR-M-2.54_1X5",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C358687"
+          }
+        ],
+        [
+          "SODIMM-200",
+          1,
+          "",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "POWERJACK_2",
+          1,
+          "POWER_JACK_BO",
+          "J3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          7,
+          "HDR-M-2.54_1X2",
+          "J4,J6,J7,J12,J14,J15,J16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x2",
+          1,
+          "HDR-M-2.54_2X2",
+          "J5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C66690"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          2,
+          "HDR-M-2.54_1X4",
+          "J8,J10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x6",
+          1,
+          "HDR-M-2.54_1X6",
+          "J9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190819"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C180248"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x9",
+          1,
+          "HDR-M-2.54_1X9",
+          "J13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225484"
+          }
+        ],
+        [
+          "Switch 12*12*7",
+          1,
+          "KEY-TH_4P-L12.0-W12.0-P5.00-LS12.5",
+          "KEY1",
+          {
+            "Manufacturer Part": "Switch 12*12*7",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14248"
+          }
+        ],
+        [
+          "0.05DCR",
+          1,
+          "L0603",
+          "L1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "50m",
+          2,
+          "L0603",
+          "L2,L3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1m",
+          1,
+          "L0603",
+          "L4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BEAD FERRITE",
+          1,
+          "BEAD FERRITE",
+          "L5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "YXD-1204RGB-C",
+          1,
+          "LED-SMD_YXD-1204RGB-C",
+          "LED1",
+          {
+            "Manufacturer Part": "YXD-1204RGB-C",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001072"
+          }
+        ],
+        [
+          "LED-0603_R",
+          4,
+          "LED0603_RED",
+          "LED2,LED3,LED4,LED5",
+          {
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C72044"
+          }
+        ],
+        [
+          "CONN-TH_2P-P5.00",
+          1,
+          "CONN-TH_2P-P5.00",
+          "P1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-IDC-2.54-2X12P",
+          2,
+          "IDC-TH_24P-P2.54-V-R2-C12-S2.54",
+          "P2,P3",
+          {
+            "Manufacturer Part": "IDC Box 2X12 2.54MM",
+            "Manufacturer": "BOOMELE",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9137"
+          }
+        ],
+        [
+          "冲针公头(直插焊板)DP9P202M",
+          1,
+          "DB9-TH_DB9SS",
+          "P4",
+          {
+            "Manufacturer Part": "冲针公头(直插焊板)DP9P202M",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001561"
+          }
+        ],
+        [
+          "SMMBT3904WT1G",
+          4,
+          "SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR",
+          "Q1,Q2,Q3,Q4",
+          {
+            "Manufacturer Part": "SMMBT3904WT1G",
+            "Manufacturer": "onsemi(安森美)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C232649"
+          }
+        ],
+        [
+          "FQP30N06L",
+          1,
+          "TO-220AB-3_L10.3-W5.0-P2.54-L",
+          "Q5",
+          {
+            "Manufacturer Part": "FQP30N06L-VB",
+            "Manufacturer": "VBsemi(微碧半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C878826"
+          }
+        ],
+        [
+          "2N3904(SOT-23)",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR",
+          "Q6",
+          {
+            "Manufacturer Part": "2n3904S-RTK/PS",
+            "Manufacturer": "KEC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18536"
+          }
+        ],
+        [
+          "IRF5210",
+          1,
+          "TO-263-2_L10.0-W9.1-P5.08-LS15.2-BR",
+          "Q7",
+          {
+            "Manufacturer Part": "IRF5210STRLPBF",
+            "Manufacturer": "IR",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2622"
+          }
+        ],
+        [
+          "2N7002",
+          3,
+          "SOT-23_L2.9-W1.3-P0.95-LS2.4-BR",
+          "Q8,Q9,Q14",
+          {
+            "Manufacturer Part": "2N7002,215",
+            "Manufacturer": "Nexperia",
+            "Supplier": "LCSC",
+            "Supplier Part": "C65189"
+          }
+        ],
+        [
+          "NPN-SOT-23",
+          1,
+          "SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR",
+          "Q10",
+          {
+            "Manufacturer Part": "NPN-sot-23",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900005297"
+          }
+        ],
+        [
+          "MMBT3904",
+          2,
+          "SOT-23",
+          "Q11,Q12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MMBT3904_C916374",
+          2,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q13,Q15",
+          {
+            "Manufacturer Part": "MMBT3904",
+            "Manufacturer": "JSMSEMI(杰盛微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C916374"
+          }
+        ],
+        [
+          "1k",
+          97,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78,R79,R80,R81,R82,R83,R84,R85,R86,R87,R88,R89,R90,R91,R92,R93,R94,R95,R96,R97,R98,R99",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "200k",
+          2,
+          "R_AXIAL-0.4",
+          "R55,R66",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZZER-12MM-KIT",
+          "SP1",
+          {
+            "Manufacturer Part": "CEM-1203",
+            "Manufacturer": "CUI Inc.",
+            "Supplier": "Mouser",
+            "Supplier Part": "490-CEM-1203(42)"
+          }
+        ],
+        [
+          "TMP125AIDBVTG4",
+          3,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+          "U1,U2,U25",
+          {
+            "Manufacturer Part": "TMP125AIDBVTG4",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7362888"
+          }
+        ],
+        [
+          "USB20-ST-001B-01-H10D8",
+          2,
+          "USB-B-TH_USB-B10-BRW",
+          "U3,U4",
+          {
+            "Manufacturer Part": "USB20-ST-001B-01-H10D8",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900013838"
+          }
+        ],
+        [
+          "M7 1N4007",
+          4,
+          "SMA_L4.4-W2.8-LS5.4-RD",
+          "U5,U6,U8,U45",
+          {
+            "Manufacturer Part": "M7 1N4007",
+            "Manufacturer": "JUXING(钜兴)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5337558"
+          }
+        ],
+        [
+          "RJ45-001-012-11 COPY",
+          1,
+          "RJ45-TH_RJ45-001-012-11",
+          "U7",
+          {
+            "Manufacturer Part": "RJ45-001-012-11",
+            "Manufacturer": "XUNPU(讯普)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7421392"
+          }
+        ],
+        [
+          "LM317_C84288",
+          1,
+          "TO-263-2_L10.1-W9.1-P5.08-LS15.2-TL",
+          "U9",
+          {
+            "Manufacturer Part": "LM317",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84288"
+          }
+        ],
+        [
+          "MAX787",
+          2,
+          "MAX787-SOT",
+          "U10,U11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "16 MHz Oscillator-Multicom Pro",
+          1,
+          "MCSJK-3N-12.00-3.3-25-C",
+          "U12",
+          {
+            "Manufacturer Part": "MCSJK-3N-12.00-3.3-25-C",
+            "Manufacturer": "MULTICOMP PRO",
+            "Supplier": "Element14",
+            "Supplier Part": "2854271"
+          }
+        ],
+        [
+          "ATMEGA328P-P",
+          1,
+          "ATMEGA328P-P",
+          "U13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LTC3822EMSE#PBF",
+          1,
+          "MSOP-10_L3.0-W3.0-P0.50-LS4.9-BL-EP",
+          "U14",
+          {
+            "Manufacturer Part": "LTC3822EMSE#PBF",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C686168"
+          }
+        ],
+        [
+          "MX25L51245GZ2I-10G TR",
+          8,
+          "WSON-8_L8.0-W6.0-P1.27-TL-EP",
+          "U15,U17,U18,U21,U22,U23,U26,U28",
+          {
+            "Manufacturer Part": "MX25L51245GZ2I-10G TR",
+            "Manufacturer": "MXIC(旺宏电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2834727"
+          }
+        ],
+        [
+          "STM32L4A6ZGT6",
+          1,
+          "LQFP-144_L20.0-W20.0-P0.50-LS22.0-BL",
+          "U16",
+          {
+            "Manufacturer Part": "STM32L4A6ZGT6",
+            "Manufacturer": "ST(意法半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1337520"
+          }
+        ],
+        [
+          "DS3231M+",
+          1,
+          "SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL",
+          "U19",
+          {
+            "Manufacturer Part": "DS3231M+",
+            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1520508"
+          }
+        ],
+        [
+          "AT24C32",
+          1,
+          "SO-8_L4.9-W3.9-P1.27-LS6.0-TL",
+          "U20",
+          {
+            "Manufacturer Part": "AT24C32",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900010642"
+          }
+        ],
+        [
+          "BAT1-3V",
+          1,
+          "BAT-SMD_BAT1-3V",
+          "U24",
+          {
+            "Manufacturer Part": "BAT1-3V",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900005490"
+          }
+        ],
+        [
+          "8 MHz Oscillator-Multicom Pro",
+          1,
+          "MCSJK-3N-12.00-3.3-25-C",
+          "U27",
+          {
+            "Manufacturer Part": "MCSJK-3N-12.00-3.3-25-C",
+            "Manufacturer": "MULTICOMP PRO",
+            "Supplier": "Element14",
+            "Supplier Part": "2854271"
+          }
+        ],
+        [
+          "CONVERTER-DAC7311",
+          8,
+          "SC-70-6",
+          "U29,U30,U34,U35,U37,U40,U41,U43",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LM386N",
+          8,
+          "DIP-8_L9.7-W6.4-P2.54-LS7.6-BL",
+          "U31,U32,U33,U36,U38,U39,U42,U44",
+          {
+            "Manufacturer Part": "LM386N",
+            "Manufacturer": "HTC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C510561"
+          }
+        ],
+        [
+          "32Kz",
+          1,
+          "XTAL_US",
+          "Y1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1731734749,
+      "createTime": 1731426419,
+      "histories": [],
+      "created_at": "2024-11-12 18:46:59",
+      "updated_at": "2024-11-16 08:25:49"
+    },
+    {
+      "uuid": "b2ba10a599ee10a8449ea63b520adeb5",
+      "title": "Sheet_5",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7a1c78a618a14d988f7e8ec9d0827d02": 1,
+        "4ac5454d45b7425584a4f05138dfd071": 2,
+        "ef6cd77a3d1441bdb057c843d062ca33": 1,
+        "978dd86cb8f545279789152357b8a3b4": 1,
+        "a9aa2b14f188405792fa87ac344499a4": 3,
+        "62a5d91115c34b5b8d27e6b924c6c14e": 1,
+        "cf995a23536b75077bbf5c1f15aabe8f": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 24
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          21,
+          "C0603",
+          "C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C20,C22,C30,C32,C33,C34,C39,C40,C55,C61",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "C0201",
+          "C19",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "220",
+          1,
+          "CASE-A_3216",
+          "C21",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.01u",
+          2,
+          "C0201",
+          "C23,C26",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "470u",
+          2,
+          "CASE-A_3216",
+          "C24,C27",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22u",
+          2,
+          "CASE-A_3216",
+          "C25,C28",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22p",
+          4,
+          "C0201",
+          "C29,C31,C48,C49",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1uF",
+          1,
+          "C0201",
+          "C41",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10nF",
+          1,
+          "C0201",
+          "C42",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100nF",
+          14,
+          "C0201",
+          "C44,C45,C46,C50,C51,C52,C54,C56,C57,C58,C60,C62,C63,C64",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1u",
+          16,
+          "C0201",
+          "C65,C68,C69,C70,C71,C72,C76,C77,C78,C79,C80,C81,C85,C86,C87,C88",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100n",
+          26,
+          "C0201",
+          "C,C,C12,C13,C14,C15,C16,C17,C18,C35,C36,C37,C38,C43,C47,C53,C59,C66,C67,C73,C74,C75,C82,C83,C84,CAPT",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4148W",
+          6,
+          "SOD-123FL_L2.6-W1.6-LS3.4-RD",
+          "D1,D2,D16,D17,D18,D19",
+          {
+            "Manufacturer Part": "1N4148W",
+            "Manufacturer": "Tak Cheong",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129216"
+          }
+        ],
+        [
+          "DSCHOTTKY",
+          29,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D3,D4,D5,D7,D9,D10,D11,D12,D13,D14,D15,D23,D27,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51",
+          {
+            "Manufacturer Part": "DSchottky",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012836"
+          }
+        ],
+        [
+          "DIODE-ZENERPTH",
+          6,
+          "DIODE-ZENER",
+          "D6,D8,D21,D22,D25,D26",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4148",
+          4,
+          "DO-35_BD2.0-L4.2-P8.20-D0.5-RD",
+          "D20,D24,D32,D52",
+          {
+            "Manufacturer Part": "1N4148",
+            "Manufacturer": "STMicroelectronics",
+            "Supplier": "LCSC",
+            "Supplier Part": "C13769"
+          }
+        ],
+        [
+          "DIODEZENER",
+          1,
+          "SOD-523_L1.2-W0.8-LS1.6-RD",
+          "D28",
+          {
+            "Manufacturer Part": "DIODEZENER3.3V500MWSOD-523",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900023612"
+          }
+        ],
+        [
+          "1N4007",
+          6,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D29,D30,D31,D33,D34,D35",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C106903"
+          }
+        ],
+        [
+          "TSC+P2.5A250V",
+          1,
+          "FUSE-TH_BD5.6-L21.0-P25.00-D0.7",
+          "F1",
+          {
+            "Manufacturer Part": "TSC+PT2.5AH250V",
+            "Manufacturer": "WALTER(华德)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C354924"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x5",
+          1,
+          "HDR-M-2.54_1X5",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C358687"
+          }
+        ],
+        [
+          "SODIMM-200",
+          1,
+          "",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "POWERJACK_2",
+          1,
+          "POWER_JACK_BO",
+          "J3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          7,
+          "HDR-M-2.54_1X2",
+          "J4,J6,J7,J12,J14,J15,J16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x2",
+          1,
+          "HDR-M-2.54_2X2",
+          "J5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C66690"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          2,
+          "HDR-M-2.54_1X4",
+          "J8,J10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x6",
+          1,
+          "HDR-M-2.54_1X6",
+          "J9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190819"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C180248"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x9",
+          1,
+          "HDR-M-2.54_1X9",
+          "J13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225484"
+          }
+        ],
+        [
+          "Switch 12*12*7",
+          1,
+          "KEY-TH_4P-L12.0-W12.0-P5.00-LS12.5",
+          "KEY1",
+          {
+            "Manufacturer Part": "Switch 12*12*7",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14248"
+          }
+        ],
+        [
+          "0.05DCR",
+          1,
+          "L0603",
+          "L1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "50m",
+          2,
+          "L0603",
+          "L2,L3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1m",
+          1,
+          "L0603",
+          "L4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BEAD FERRITE",
+          1,
+          "BEAD FERRITE",
+          "L5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "YXD-1204RGB-C",
+          1,
+          "LED-SMD_YXD-1204RGB-C",
+          "LED1",
+          {
+            "Manufacturer Part": "YXD-1204RGB-C",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001072"
+          }
+        ],
+        [
+          "LED-0603_R",
+          4,
+          "LED0603_RED",
+          "LED2,LED3,LED4,LED5",
+          {
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C72044"
+          }
+        ],
+        [
+          "CONN-TH_2P-P5.00",
+          1,
+          "CONN-TH_2P-P5.00",
+          "P1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-IDC-2.54-2X12P",
+          2,
+          "IDC-TH_24P-P2.54-V-R2-C12-S2.54",
+          "P2,P3",
+          {
+            "Manufacturer Part": "IDC Box 2X12 2.54MM",
+            "Manufacturer": "BOOMELE",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9137"
+          }
+        ],
+        [
+          "冲针公头(直插焊板)DP9P202M",
+          1,
+          "DB9-TH_DB9SS",
+          "P4",
+          {
+            "Manufacturer Part": "冲针公头(直插焊板)DP9P202M",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001561"
+          }
+        ],
+        [
+          "SMMBT3904WT1G",
+          4,
+          "SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR",
+          "Q1,Q2,Q3,Q4",
+          {
+            "Manufacturer Part": "SMMBT3904WT1G",
+            "Manufacturer": "onsemi(安森美)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C232649"
+          }
+        ],
+        [
+          "FQP30N06L",
+          1,
+          "TO-220AB-3_L10.3-W5.0-P2.54-L",
+          "Q5",
+          {
+            "Manufacturer Part": "FQP30N06L-VB",
+            "Manufacturer": "VBsemi(微碧半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C878826"
+          }
+        ],
+        [
+          "2N3904(SOT-23)",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR",
+          "Q6",
+          {
+            "Manufacturer Part": "2n3904S-RTK/PS",
+            "Manufacturer": "KEC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18536"
+          }
+        ],
+        [
+          "IRF5210",
+          1,
+          "TO-263-2_L10.0-W9.1-P5.08-LS15.2-BR",
+          "Q7",
+          {
+            "Manufacturer Part": "IRF5210STRLPBF",
+            "Manufacturer": "IR",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2622"
+          }
+        ],
+        [
+          "2N7002",
+          3,
+          "SOT-23_L2.9-W1.3-P0.95-LS2.4-BR",
+          "Q8,Q9,Q14",
+          {
+            "Manufacturer Part": "2N7002,215",
+            "Manufacturer": "Nexperia",
+            "Supplier": "LCSC",
+            "Supplier Part": "C65189"
+          }
+        ],
+        [
+          "NPN-SOT-23",
+          1,
+          "SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR",
+          "Q10",
+          {
+            "Manufacturer Part": "NPN-sot-23",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900005297"
+          }
+        ],
+        [
+          "MMBT3904",
+          2,
+          "SOT-23",
+          "Q11,Q12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MMBT3904_C916374",
+          2,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q13,Q15",
+          {
+            "Manufacturer Part": "MMBT3904",
+            "Manufacturer": "JSMSEMI(杰盛微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C916374"
+          }
+        ],
+        [
+          "1k",
+          97,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78,R79,R80,R81,R82,R83,R84,R85,R86,R87,R88,R89,R90,R91,R92,R93,R94,R95,R96,R97,R98,R99",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "200k",
+          2,
+          "R_AXIAL-0.4",
+          "R55,R66",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZZER-12MM-KIT",
+          "SP1",
+          {
+            "Manufacturer Part": "CEM-1203",
+            "Manufacturer": "CUI Inc.",
+            "Supplier": "Mouser",
+            "Supplier Part": "490-CEM-1203(42)"
+          }
+        ],
+        [
+          "TMP125AIDBVTG4",
+          3,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+          "U1,U2,U25",
+          {
+            "Manufacturer Part": "TMP125AIDBVTG4",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7362888"
+          }
+        ],
+        [
+          "USB20-ST-001B-01-H10D8",
+          2,
+          "USB-B-TH_USB-B10-BRW",
+          "U3,U4",
+          {
+            "Manufacturer Part": "USB20-ST-001B-01-H10D8",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900013838"
+          }
+        ],
+        [
+          "M7 1N4007",
+          4,
+          "SMA_L4.4-W2.8-LS5.4-RD",
+          "U5,U6,U8,U45",
+          {
+            "Manufacturer Part": "M7 1N4007",
+            "Manufacturer": "JUXING(钜兴)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5337558"
+          }
+        ],
+        [
+          "RJ45-001-012-11 COPY",
+          1,
+          "RJ45-TH_RJ45-001-012-11",
+          "U7",
+          {
+            "Manufacturer Part": "RJ45-001-012-11",
+            "Manufacturer": "XUNPU(讯普)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7421392"
+          }
+        ],
+        [
+          "LM317_C84288",
+          1,
+          "TO-263-2_L10.1-W9.1-P5.08-LS15.2-TL",
+          "U9",
+          {
+            "Manufacturer Part": "LM317",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84288"
+          }
+        ],
+        [
+          "MAX787",
+          2,
+          "MAX787-SOT",
+          "U10,U11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "16 MHz Oscillator-Multicom Pro",
+          1,
+          "MCSJK-3N-12.00-3.3-25-C",
+          "U12",
+          {
+            "Manufacturer Part": "MCSJK-3N-12.00-3.3-25-C",
+            "Manufacturer": "MULTICOMP PRO",
+            "Supplier": "Element14",
+            "Supplier Part": "2854271"
+          }
+        ],
+        [
+          "ATMEGA328P-P",
+          1,
+          "ATMEGA328P-P",
+          "U13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LTC3822EMSE#PBF",
+          1,
+          "MSOP-10_L3.0-W3.0-P0.50-LS4.9-BL-EP",
+          "U14",
+          {
+            "Manufacturer Part": "LTC3822EMSE#PBF",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C686168"
+          }
+        ],
+        [
+          "MX25L51245GZ2I-10G TR",
+          8,
+          "WSON-8_L8.0-W6.0-P1.27-TL-EP",
+          "U15,U17,U18,U21,U22,U23,U26,U28",
+          {
+            "Manufacturer Part": "MX25L51245GZ2I-10G TR",
+            "Manufacturer": "MXIC(旺宏电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2834727"
+          }
+        ],
+        [
+          "STM32L4A6ZGT6",
+          1,
+          "LQFP-144_L20.0-W20.0-P0.50-LS22.0-BL",
+          "U16",
+          {
+            "Manufacturer Part": "STM32L4A6ZGT6",
+            "Manufacturer": "ST(意法半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1337520"
+          }
+        ],
+        [
+          "DS3231M+",
+          1,
+          "SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL",
+          "U19",
+          {
+            "Manufacturer Part": "DS3231M+",
+            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1520508"
+          }
+        ],
+        [
+          "AT24C32",
+          1,
+          "SO-8_L4.9-W3.9-P1.27-LS6.0-TL",
+          "U20",
+          {
+            "Manufacturer Part": "AT24C32",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900010642"
+          }
+        ],
+        [
+          "BAT1-3V",
+          1,
+          "BAT-SMD_BAT1-3V",
+          "U24",
+          {
+            "Manufacturer Part": "BAT1-3V",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900005490"
+          }
+        ],
+        [
+          "8 MHz Oscillator-Multicom Pro",
+          1,
+          "MCSJK-3N-12.00-3.3-25-C",
+          "U27",
+          {
+            "Manufacturer Part": "MCSJK-3N-12.00-3.3-25-C",
+            "Manufacturer": "MULTICOMP PRO",
+            "Supplier": "Element14",
+            "Supplier Part": "2854271"
+          }
+        ],
+        [
+          "CONVERTER-DAC7311",
+          8,
+          "SC-70-6",
+          "U29,U30,U34,U35,U37,U40,U41,U43",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LM386N",
+          8,
+          "DIP-8_L9.7-W6.4-P2.54-LS7.6-BL",
+          "U31,U32,U33,U36,U38,U39,U42,U44",
+          {
+            "Manufacturer Part": "LM386N",
+            "Manufacturer": "HTC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C510561"
+          }
+        ],
+        [
+          "32Kz",
+          1,
+          "XTAL_US",
+          "Y1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1731734750,
+      "createTime": 1731426419,
+      "histories": [],
+      "created_at": "2024-11-12 18:46:59",
+      "updated_at": "2024-11-16 08:25:50"
+    },
+    {
+      "uuid": "1f52404aa8d876baf12292ecb5643802",
+      "puuid": "0c51a1ea2544a406344a68f0c23cc99e",
+      "title": "PCB_Project-12 11",
+      "filename": "PCB_Project-12 11.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "6eac4f0790224a4390e316fa1c7bfc0a": 74,
+        "f8151fdc728a41ebbc304e11d39e5437": 11,
+        "ce25118ef0b041b8a773e71ca28ae65d": 6,
+        "f00063ebb2894f68ba339d38653df1d5": 6,
+        "2ce37f022c42417db5d6f92690355fca": 29,
+        "87681d22836f44cda11272a50e789375": 6,
+        "6c939f0b67d24ba88150ca5feca61f68": 4,
+        "5909f22cd6a14fe7bb1b16923cbabb19": 1,
+        "c2803222ad4b48fb94db0de548a6280a": 6,
+        "d6e551bfeedd4b69be08ec9da4c84c35": 1,
+        "c6ea5988850f4ca3a899de7d98efb798": 1,
+        "70aa5812f21f4991bf427395d51849f4": 7,
+        "8c011694efe04de7ac0c392bf11240d5": 1,
+        "df3ca37cb13d499cb713e9aa6fdd0c7b": 1,
+        "a98235252ba749888f74d5b8012c8785": 1,
+        "1f261cf72cb1479ca32177c31156ede3": 4,
+        "6fe4b96ec18042f4aaf7275f2569cbbf": 1,
+        "a15cb863b525456a94d35799c4b36c12": 1,
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 4,
+        "be1b3456245c4373bfecde52b7e1b1d6": 1,
+        "546ebfc64de6481c8d688201f31e3c17": 2,
+        "8854a17a050b45499eb86f54d320b436": 1,
+        "e98891da83fd4e29afbfe03f858920c7": 4,
+        "4a81c52f384a4e1ba3f57a3703e0f5f9": 1,
+        "2a819e02584e46aea9f04b619de61270": 3,
+        "dd68e74c2f514068818084c5b689e19e": 1,
+        "bebf453b0e64439b88070f64783c4e0a": 2,
+        "bade90667a6e4731855e9a223387b8a6": 2,
+        "398691f1f785460098bbe5ee6590333c": 97,
+        "5905db98cde4487fbb177070aa85bbe1": 2,
+        "a07289897f9e425cb51c2f39ec1595ba": 1,
+        "13cdc6c4d49b49c0ae68578d60499eaf": 2,
+        "9275fb41c0064223b77db30e06cb1bfe": 4,
+        "cbb049e64fcf464d8e9c11e106c6df3c": 2,
+        "685402123ff24b6ba8e39057aa4c9dab": 2,
+        "1d3ea1c09844469cb89e832703c0a40e": 1,
+        "e712b39513304dfebb773416100b1f7f": 1,
+        "7bb16cd857b944d48e57b74c1c7062b3": 1,
+        "8ca216cd16c44e76a59868514f6bdc07": 8,
+        "9d1897c5a1c74d4e99f93c9aa3d27650": 1,
+        "40737a1a22784dc0b5c4c8f239e41340": 1,
+        "bb421e26fb99407a90c35f534596aa4f": 1,
+        "26ddc6f916344af197d04f4724b10b8a": 8,
+        "feca36c11c854e9387f83ce44b9662f6": 1,
+        "c3a3a479239346a8bb3da07840bfe89e": 1,
+        "55f9f47567d34f08baa659040f08e226": 8,
+        "73b08a8babad40a4bd3ac52365cfe07c": 1,
+        "f3d2a2ecf658447dac746eb15158a989": 3,
+        "18619f02a62e4d1d91aef7176ecdc089": 1,
+        "45a1fbe26c4541759167c330174c7d00": 1,
+        "7554c900cea44d12a1ab4141c58eee9e": 1,
+        "af1184eb33cb4ad59b43849943842bf8": 1,
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "282f7786cb6144d097ae00194c3e3fb3": 2,
+        "108969f8d9834a9ea23bcec2d43a66e4": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100n",
+          26,
+          "C0201",
+          "C,C12,C13,C14,C15,C16,C17,C18,C35,C36,C37,C38,C43,C47,C53,C59,C66,C67,C73,C74,C75,C82,C83,C84,C100,CAPT",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "C0201",
+          "C19",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.1u",
+          9,
+          "C0201",
+          "C22,C30,C32,C33,C34,C39,C40,C55,C61",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.01u",
+          2,
+          "C0201",
+          "C23,C26",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22p",
+          4,
+          "C0201",
+          "C29,C31,C48,C49",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1uF",
+          1,
+          "C0201",
+          "C41",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10nF",
+          1,
+          "C0201",
+          "C42",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100nF",
+          14,
+          "C0201",
+          "C44,C45,C46,C50,C51,C52,C54,C56,C57,C58,C60,C62,C63,C64",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1u",
+          16,
+          "C0201",
+          "C65,C68,C69,C70,C71,C72,C76,C77,C78,C79,C80,C81,C85,C86,C87,C88",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.1u",
+          11,
+          "C0603",
+          "C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.1u",
+          1,
+          "CASE-A_3216",
+          "C20",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "220",
+          1,
+          "CASE-A_3216",
+          "C21",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "470u",
+          2,
+          "CASE-A_3216",
+          "C24,C27",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22u",
+          2,
+          "CASE-A_3216",
+          "C25,C28",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4148W",
+          6,
+          "SOD-123FL_L2.6-W1.6-LS3.4-RD",
+          "D1,D2,D16,D17,D18,D19",
+          {
+            "Manufacturer Part": "1N4148W",
+            "Manufacturer": "Tak Cheong",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129216"
+          }
+        ],
+        [
+          "DSCHOTTKY",
+          29,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D3,D4,D5,D7,D9,D10,D11,D12,D13,D14,D15,D23,D27,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51",
+          {
+            "Manufacturer Part": "DSchottky",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012836"
+          }
+        ],
+        [
+          "DIODE-ZENERPTH",
+          6,
+          "DIODE-ZENER",
+          "D6,D8,D21,D22,D25,D26",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4148",
+          4,
+          "DO-35_BD2.0-L4.2-P8.20-D0.5-RD",
+          "D20,D24,D32,D52",
+          {
+            "Manufacturer Part": "1N4148",
+            "Manufacturer": "STMicroelectronics",
+            "Supplier": "LCSC",
+            "Supplier Part": "C13769"
+          }
+        ],
+        [
+          "DIODEZENER",
+          1,
+          "SOD-523_L1.2-W0.8-LS1.6-RD",
+          "D28",
+          {
+            "Manufacturer Part": "DIODEZENER3.3V500MWSOD-523",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900023612"
+          }
+        ],
+        [
+          "1N4007",
+          6,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D29,D30,D31,D33,D34,D35",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C106903"
+          }
+        ],
+        [
+          "TSC+P2.5A250V",
+          1,
+          "FUSE-TH_BD5.6-L21.0-P25.00-D0.7",
+          "F1",
+          {
+            "Manufacturer Part": "TSC+PT2.5AH250V",
+            "Manufacturer": "WALTER(华德)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C354924"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x5",
+          1,
+          "HDR-M-2.54_1X5",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C358687"
+          }
+        ],
+        [
+          "POWERJACK_2",
+          1,
+          "POWER_JACK_BO",
+          "J3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          7,
+          "HDR-M-2.54_1X2",
+          "J4,J6,J7,J12,J14,J15,J16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x2",
+          1,
+          "HDR-M-2.54_2X2",
+          "J5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C66690"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          2,
+          "HDR-M-2.54_1X4",
+          "J8,J10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x6",
+          1,
+          "HDR-M-2.54_1X6",
+          "J9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190819"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C180248"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x9",
+          1,
+          "HDR-M-2.54_1X9",
+          "J13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225484"
+          }
+        ],
+        [
+          "Switch 12*12*7",
+          1,
+          "KEY-TH_4P-L12.0-W12.0-P5.00-LS12.5",
+          "KEY1",
+          {
+            "Manufacturer Part": "Switch 12*12*7",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14248"
+          }
+        ],
+        [
+          "0.05DCR",
+          1,
+          "L0603",
+          "L1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "50m",
+          2,
+          "L0603",
+          "L2,L3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1m",
+          1,
+          "L0603",
+          "L4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BEAD FERRITE",
+          1,
+          "BEAD FERRITE",
+          "L5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "YXD-1204RGB-C",
+          1,
+          "LED-SMD_YXD-1204RGB-C",
+          "LED1",
+          {
+            "Manufacturer Part": "YXD-1204RGB-C",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001072"
+          }
+        ],
+        [
+          "LED-0603_R",
+          4,
+          "LED0603_RED",
+          "LED2,LED3,LED4,LED5",
+          {
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C72044"
+          }
+        ],
+        [
+          "CONN-TH_2P-P5.00",
+          1,
+          "CONN-TH_2P-P5.00",
+          "P1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-IDC-2.54-2X12P",
+          2,
+          "IDC-TH_24P-P2.54-V-R2-C12-S2.54",
+          "P2,P3",
+          {
+            "Manufacturer Part": "IDC Box 2X12 2.54MM",
+            "Manufacturer": "BOOMELE",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9137"
+          }
+        ],
+        [
+          "冲针公头(直插焊板)DP9P202M",
+          1,
+          "DB9-TH_DB9SS",
+          "P4",
+          {
+            "Manufacturer Part": "冲针公头(直插焊板)DP9P202M",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001561"
+          }
+        ],
+        [
+          "SMMBT3904WT1G",
+          4,
+          "SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR",
+          "Q1,Q2,Q3,Q4",
+          {
+            "Manufacturer Part": "SMMBT3904WT1G",
+            "Manufacturer": "onsemi(安森美)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C232649"
+          }
+        ],
+        [
+          "FQP30N06L",
+          1,
+          "TO-220AB-3_L10.3-W5.0-P2.54-L",
+          "Q5",
+          {
+            "Manufacturer Part": "FQP30N06L-VB",
+            "Manufacturer": "VBsemi(微碧半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C878826"
+          }
+        ],
+        [
+          "2N3904(SOT-23)",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR",
+          "Q6",
+          {
+            "Manufacturer Part": "2n3904S-RTK/PS",
+            "Manufacturer": "KEC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18536"
+          }
+        ],
+        [
+          "IRF5210",
+          1,
+          "TO-263-2_L10.0-W9.1-P5.08-LS15.2-BR",
+          "Q7",
+          {
+            "Manufacturer Part": "IRF5210STRLPBF",
+            "Manufacturer": "IR",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2622"
+          }
+        ],
+        [
+          "2N7002",
+          3,
+          "SOT-23_L2.9-W1.3-P0.95-LS2.4-BR",
+          "Q8,Q9,Q14",
+          {
+            "Manufacturer Part": "2N7002,215",
+            "Manufacturer": "Nexperia",
+            "Supplier": "LCSC",
+            "Supplier Part": "C65189"
+          }
+        ],
+        [
+          "NPN-SOT-23",
+          1,
+          "SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR",
+          "Q10",
+          {
+            "Manufacturer Part": "NPN-sot-23",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900005297"
+          }
+        ],
+        [
+          "MMBT3904",
+          2,
+          "SOT-23",
+          "Q11,Q12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MMBT3904_C916374",
+          2,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q13,Q15",
+          {
+            "Manufacturer Part": "MMBT3904",
+            "Manufacturer": "JSMSEMI(杰盛微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C916374"
+          }
+        ],
+        [
+          "1k",
+          97,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78,R79,R80,R81,R82,R83,R84,R85,R86,R87,R88,R89,R90,R91,R92,R93,R94,R95,R96,R97,R98,R99",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "200k",
+          2,
+          "R_AXIAL-0.4",
+          "R55,R66",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZZER-12MM-KIT",
+          "SP1",
+          {
+            "Manufacturer Part": "CEM-1203",
+            "Manufacturer": "CUI Inc.",
+            "Supplier": "Mouser",
+            "Supplier Part": "490-CEM-1203(42)"
+          }
+        ],
+        [
+          "TMP125AIDBVTG4",
+          3,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+          "U1,U2,U25",
+          {
+            "Manufacturer Part": "TMP125AIDBVTG4",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7362888"
+          }
+        ],
+        [
+          "USB20-ST-001B-01-H10D8",
+          2,
+          "USB-B-TH_USB-B10-BRW",
+          "U3,U4",
+          {
+            "Manufacturer Part": "USB20-ST-001B-01-H10D8",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900013838"
+          }
+        ],
+        [
+          "M7 1N4007",
+          4,
+          "SMA_L4.4-W2.8-LS5.4-RD",
+          "U5,U6,U8,U45",
+          {
+            "Manufacturer Part": "M7 1N4007",
+            "Manufacturer": "JUXING(钜兴)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5337558"
+          }
+        ],
+        [
+          "RJ45-001-012-11 COPY",
+          1,
+          "RJ45-TH_RJ45-001-012-11",
+          "U7",
+          {
+            "Manufacturer Part": "RJ45-001-012-11",
+            "Manufacturer": "XUNPU(讯普)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7421392"
+          }
+        ],
+        [
+          "LM317_C84288",
+          1,
+          "TO-263-2_L10.1-W9.1-P5.08-LS15.2-TL",
+          "U9",
+          {
+            "Manufacturer Part": "LM317",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84288"
+          }
+        ],
+        [
+          "MAX787",
+          2,
+          "MAX787-SOT",
+          "U10,U11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "16 MHz Oscillator-Multicom Pro",
+          1,
+          "MCSJK-3N-12.00-3.3-25-C",
+          "U12",
+          {
+            "Manufacturer Part": "MCSJK-3N-12.00-3.3-25-C",
+            "Manufacturer": "MULTICOMP PRO",
+            "Supplier": "Element14",
+            "Supplier Part": "2854271"
+          }
+        ],
+        [
+          "8 MHz Oscillator-Multicom Pro",
+          1,
+          "MCSJK-3N-12.00-3.3-25-C",
+          "U27",
+          {
+            "Manufacturer Part": "MCSJK-3N-12.00-3.3-25-C",
+            "Manufacturer": "MULTICOMP PRO",
+            "Supplier": "Element14",
+            "Supplier Part": "2854271"
+          }
+        ],
+        [
+          "ATMEGA328P-P",
+          1,
+          "ATMEGA328P-PU",
+          "U13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LTC3822EMSE#PBF",
+          1,
+          "MSOP-10_L3.0-W3.0-P0.50-LS4.9-BL-EP",
+          "U14",
+          {
+            "Manufacturer Part": "LTC3822EMSE#PBF",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C686168"
+          }
+        ],
+        [
+          "MX25L51245GZ2I-10G TR",
+          8,
+          "WSON-8_L8.0-W6.0-P1.27-TL-EP",
+          "U15,U17,U18,U21,U22,U23,U26,U28",
+          {
+            "Manufacturer Part": "MX25L51245GZ2I-10G TR",
+            "Manufacturer": "MXIC(旺宏电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2834727"
+          }
+        ],
+        [
+          "STM32L4A6ZGT6",
+          1,
+          "LQFP-144_L20.0-W20.0-P0.50-LS22.0-BL",
+          "U16",
+          {
+            "Manufacturer Part": "STM32L4A6ZGT6",
+            "Manufacturer": "ST(意法半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1337520"
+          }
+        ],
+        [
+          "DS3231M+",
+          1,
+          "SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL",
+          "U19",
+          {
+            "Manufacturer Part": "DS3231M+",
+            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1520508"
+          }
+        ],
+        [
+          "AT24C32",
+          1,
+          "SO-8_L4.9-W3.9-P1.27-LS6.0-TL",
+          "U20",
+          {
+            "Manufacturer Part": "AT24C32",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900010642"
+          }
+        ],
+        [
+          "BAT1-3V",
+          1,
+          "BAT-SMD_BAT1-3V",
+          "U24",
+          {
+            "Manufacturer Part": "BAT1-3V",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900005490"
+          }
+        ],
+        [
+          "CONVERTER-DAC7311",
+          8,
+          "SC-70-6",
+          "U29,U30,U34,U35,U37,U40,U41,U43",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LM386N",
+          8,
+          "DIP-8_L9.7-W6.4-P2.54-LS7.6-BL",
+          "U31,U32,U33,U36,U38,U39,U42,U44",
+          {
+            "Manufacturer Part": "LM386N",
+            "Manufacturer": "HTC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C510561"
+          }
+        ],
+        [
+          "32Kz",
+          1,
+          "XTAL_US",
+          "Y1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SODIMM-200",
+          1,
+          "CONN-SMD_200P-P0.60_DDR2-SODIMM-200P",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1731926772,
+      "createTime": 1731739760,
+      "histories": [],
+      "created_at": "2024-11-16 09:49:20",
+      "updated_at": "2024-11-18 13:46:12"
+    }
+  ],
+  "sort": [
+    "e3efcb3e8a5e4860d2cb2562d874d05e",
+    "b6f33caed00f460f82ca636a11ac7d2c",
+    "a10292e12b97e20fbf3da7715b323d6d",
+    "992625ba8e4de574986a582a7a8ef60e",
+    "b2ba10a599ee10a8449ea63b520adeb5"
+  ],
+  "title": "Project-12 11",
+  "foldername": "Project-12 11",
+  "schfilename": "Project-12 11.json",
+  "schfilemtime": 1731736455410
+}
